@@ -26,4 +26,41 @@ a{
   }
   section{
     border: 1px solid rebeccapurple;
+    box-shadow: 5px 5px 5px #7f2929;
   }
+  h1 {
+    font-size: 3em;
+    text-shadow: 2px 2px 2px color #64a6a6;
+    text-align: center;
+  }
+  p{
+    font-size: 1.25em;
+    text-align: justify;
+  }
+  span{
+    font-weight: bold;
+  }
+  main{
+    width: 90%;
+    margin: auto;
+  }
+li {
+    list-style: none;
+}
+
+nav h3{
+    color: purple
+}
+aside h3{
+    color: darkmagenta;
+
+}
+.introduction{
+    color: #566868:
+}
+.features{
+    color: #3c6015
+}
+.summary{
+    color: rgb(241, 106, 128);
+}
