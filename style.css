@@ -1,5 +1,6 @@
 a{
     text-decoration: none;
+    color: rgb(55, 108, 91);
   }
 
   body{
@@ -12,4 +13,17 @@ a{
   }
   aside{
     background-color: #e6e292;
+  }
+
+  nav, aside {
+    color: rgb(34, 34, 20)
+  }
+  a:visited {
+    color: red;
+  }
+  a:hover {
+    color: rgb(0, 248, 0)
+  }
+  section{
+    border: 1px solid rebeccapurple;
   }
